@@ -25,3 +25,5 @@ apenas um grupo de tcc fazendo trabalho de tcc 👍
 </details>
 
 <hr />
+
+Copyright ©️2021 BaseTech Inc.
