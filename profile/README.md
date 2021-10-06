@@ -1,4 +1,3 @@
-apenas um grupo de tcc fazendo trabalho de tcc 👍
 
 <details>
   <summary>Spoiler</summary>
