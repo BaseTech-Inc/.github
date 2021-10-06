@@ -23,3 +23,5 @@ apenas um grupo de tcc fazendo trabalho de tcc 👍
   
   <a href="https://github.com/BaseTech-Inc/.github/raw/master/docs/UseCase.pdf" target="_blank">Abrir PDF</a>
 </details>
+
+<hr />
