@@ -1,4 +1,3 @@
-
 <details>
   <summary>Spoiler</summary>
   
