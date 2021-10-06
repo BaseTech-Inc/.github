@@ -16,4 +16,10 @@ apenas um grupo de tcc fazendo trabalho de tcc 👍
   <img src="https://raw.githubusercontent.com/BaseTech-Inc/.github/master/docs/MER_TCC.svg" alt="MER" />
 </details>
 
-
+<details>
+  <summary>Casos de Usos</summary>
+  
+  <br />
+  
+  <a href="github.com/BaseTech-Inc/.github//UseCase.pdf" target="_blank">PDF.</a>
+</details>
