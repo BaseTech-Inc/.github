@@ -21,5 +21,5 @@ apenas um grupo de tcc fazendo trabalho de tcc 👍
   
   <br />
   
-  <a href="github.com/BaseTech-Inc/.github//UseCase.pdf" target="_blank">PDF.</a>
+  <a href="https://github.com/BaseTech-Inc/.github/UseCase.pdf" target="_blank">PDF.</a>
 </details>
