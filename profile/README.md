@@ -1,7 +1,5 @@
 apenas um grupo de tcc fazendo trabalho de tcc 👍
 
-<br />
-
 <details>
   <summary>Spoiler</summary>
   
