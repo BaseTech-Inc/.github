@@ -11,7 +11,7 @@
   
   <br />
   
-  <img src="https://raw.githubusercontent.com/BaseTech-Inc/.github/master/docs/MER_TCC.svg" alt="MER" />
+  <img src="https://raw.githubusercontent.com/BaseTech-Inc/.github/master/docs/content/images/MER_TCC.svg" alt="MER" />
 </details>
 
 <details>
@@ -19,7 +19,7 @@
   
   <br />
   
-  <a href="https://github.com/BaseTech-Inc/.github/raw/master/docs/UseCase.pdf">Abrir PDF</a>
+  <a href="https://github.com/BaseTech-Inc/.github/raw/master/docs/content/images/UseCase.pdf">Abrir PDF</a>
 </details>
 
 <hr />
