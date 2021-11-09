@@ -24,4 +24,4 @@
 
 <hr />
 
-Copyright ©2021 BaseTech Inc.
+**Copyright** ©2021 **BaseTech Inc.**
