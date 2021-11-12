@@ -13,7 +13,7 @@
   
   <br />
   
-  <a href="https://github.com/BaseTech-Inc/.github/raw/master/docs/content/images/UseCase.pdf">Abrir PDF</a>
+  <a href="https://github.com/BaseTech-Inc/.github/blob/master/docs/content/images/UseCase.pdf">Abrir PDF</a>
 </details>
 
 <details>
