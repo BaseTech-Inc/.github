@@ -16,8 +16,6 @@
   <a href="https://github.com/BaseTech-Inc/.github/raw/master/docs/content/images/UseCase.pdf">Abrir PDF</a>
 </details>
 
-<hr />
-
 <details>
   <summary>Spoiler</summary>
   
@@ -25,7 +23,3 @@
   
   <img src="https://user-images.githubusercontent.com/54378909/135945519-9c974b9c-c60f-4698-a338-292a28afbf21.jpeg" alt="ricardola" />
 </details>
-
-<hr />
-
-**Copyright** ©2021 **BaseTech Inc.**
