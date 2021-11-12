@@ -1,5 +1,4 @@
-# A experiência Tupã.
-# On Github.
+<h1>A experiência Tupã.</br>On Discord. </h1>
 
 <details>
   <summary>Spoiler</summary>
