@@ -1,7 +1,5 @@
 <h2>A experiência BaseTech-Inc.</br> On Github. 😍</h2>
 
-## Documentação
-
 <details>
   <summary>Modelo entidade relacionamento</summary>
   
