@@ -17,7 +17,7 @@
 </details>
 
 <details>
-  <summary>Spoiler</summary>
+  <summary>Spoiler (imagens fortes)</summary>
   
   <br />
   
